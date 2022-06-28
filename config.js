@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'David',
+	name: '',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
 	greetingMorning: 'Dobré ráno!',
-	greetingAfternoon: 'Dobré odpoledne,',
-	greetingEvening: 'Dobrý večer,',
-	greetingNight: 'Jdi už spát!',
+	greetingAfternoon: 'Dobré odpoledne, Davide',
+	greetingEvening: 'Dobrý večer, Davide',
+	greetingNight: 'Davide, jdi už spát!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
